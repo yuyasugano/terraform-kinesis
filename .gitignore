@@ -20,4 +20,4 @@ environments/wordpress_web/variable.tf
 environments/wordpress_web/.terraform
 environments/vpc/variable.tf
 environments/vpc/.terraform
-
+environments/variable.tf
